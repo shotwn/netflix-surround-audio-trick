@@ -33,6 +33,8 @@ Script still requires Dolby Access. But also requires Netflix PWA from Microsoft
 - [Netflix PWA from Microsoft Store](https://www.microsoft.com/en-us/p/netflix/9wzdncrfj3tj)
 - [Dolby Access from Microsoft Store](https://www.microsoft.com/en-us/p/dolby-access/9n0866fs04w8)
 
+You can ***download `Netflix.Surround.Audio.Trick.exe` from the [latest release](https://github.com/shotwn/netflix-surround-audio-trick/releases/latest/).***
+
 ### Requirements for Python Script
 - Previously mentioned requirements
 - Python 3.12 or higher
