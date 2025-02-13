@@ -19,9 +19,11 @@ jobs:
               uses: actions/download-artifact@v4
               with:
                 name: netflix-surround-audio-trick.exe
+            - name: Display structure of downloaded files
+              run: ls -R
             - name: Upload to latest release
               uses: softprops/action-gh-release@v1
               with:
-                files: netflix-surround-audio-trick.exe
+                files: netflix-surround-audio-trick/netflix-surround-audio-trick.exe
                 token: ${{ secrets.GITHUB_TOKEN }}
                 append_body: true
