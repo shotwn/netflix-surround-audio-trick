@@ -14,7 +14,7 @@ In 2024 Netflix retired their native windows application and started to use a Ed
 Surround audio is still available if Dolby Atmos is enabled in the system, but not everyone has a Dolby Atmos supported decoder. In fact most of the people use onboard sound cards or simple usb sound cards which does not support Dolby Atmos.
 
 ## The Solution
-A simple trick can be used to enable surround sound in Netflix. This trick requires to but a license for Dolby Access application from Microsoft Store and enabling Dolby Atmos for headphones. This will enable the surround sound in Netflix and it will stay enabled even if Dolby Atmos for headphones is disabled afterwards.
+A simple trick can be used to enable surround sound in Netflix. This trick requires to buy a license for Dolby Access application from Microsoft Store and enabling Dolby Atmos for headphones. This will enable the surround sound in Netflix and it will stay enabled even if Dolby Atmos for headphones is disabled afterwards.
 
 ### Steps
 1. Buy Dolby Access from Microsoft Store if you did not buy it before.
