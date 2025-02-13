@@ -10,5 +10,7 @@ jobs:
                 spec: 'main.spec'
                 requirements: 'requirements.txt'
                 upload_exe_with_name: 'netflix-surround-audio-trick.exe'
-                options: --onefile, --name "Netflix Surround Audio Trick"
-                
+            - name: Release Assets
+              uses: softprops/action-gh-release@v1
+              with:
+                files: dist/netflix-surround-audio-trick.exe
