@@ -24,6 +24,6 @@ jobs:
             - name: Upload to latest release
               uses: softprops/action-gh-release@v1
               with:
-                files: netflix-surround-audio-trick/netflix-surround-audio-trick.exe
+                files: Netflix Surround Audio Trick.exe
                 token: ${{ secrets.GITHUB_TOKEN }}
                 append_body: true
